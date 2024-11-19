@@ -49,9 +49,27 @@ For my project, I went through the worked examples of modeling hare-lynx populat
 ## Week 7: Accumulation Function
 I  was excited to start getting into integrals! In this week, we returned to the disease models (Ebola this time) to investigate the accumulation - the total sum of f(x) over all of x. The assignment for this week is in the Repo as Week 7
 
-I liked the initial drawing activities - it was interesting getting to draw out by hand what the accumulation function or average function across the bar charts might be. 
+I liked the initial drawing activities - it was interesting getting to draw out by hand what the accumulation function or average function across the bar charts might be. The activity where we matched the normal curves to their accumulation functions was especially interesting, and a great introduction to what the anti-derivative of that kind of function would look like. I did have to re-count the bars in the first part of the assignment many times. 
+
 ## Week 8: Differentiation Rules
+We got to review differentiation rules! I really appreciated this review of the product, quotient, and chain rules for differentiation. I rarely solve derivatives by hand anymore, so this felt like great practice. I don't know why all of the a's in the pdf are missing though :(
+
+This assignment is listed in the repo as "HW7". 
+
+The most interesting part of this assignment was trying to create a numeric derivative solver - I was not able to implement one successfully as a part of this assignment, but it was very eye-opening in terms of how many things really go into consideration when solving for a derivative. 
+
 ## Week 9: Newton's Method
+This was a fun method I had never seen before! The assignment is listed in the repo as "NewtonActivities". 
+
+I thought that this was a really interesting way to find the roots of a function, and a fun coding exercise. I know I discussed this more above, but I really would like to dive deeper into the math and possibly work through a proof for this method.
+
+
 ## Week 10: Riemann Sums
+This week was all about learning the Riemann sum method for approximating the area under the curve. I thought this was a great review of the concepts, and having the examples about negative areas where x or y was negative was a good reminder to pay attention to the value of the coordinates. This assignment is in the repo as a jupyter notebook "Week 10 Riemann".
+
+I really enjoyed doing the coding for this assignment, it was very satisfying to generate clean graphs that were customizable to the part of the assignment I was on and what method of riemann sum I was using (left, right, center). Again touching on the concept of limits by reducing the interval size and increasing the number of intervals. I hadn't used the trapezoidal estimation instead of the rectangular one before, so it was interesting to learn about that!
+
+
 ## Week 11: The Integral and the Fundamental Theorem of Calculus
+This was a nice, simple assignment that illustrated some of the basic concepts of the FTC. I like the activities that are done by-hand, and the matching exercise was a good way to gain intuition about what an anti-derivative is compared to the original function, and what the integral looks like when written out. Good practice with different formats of equations. This assignment is listed in the Repo as "FTC"
 
