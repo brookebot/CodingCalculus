@@ -6,8 +6,16 @@ This repository will contain the classwork and class contributions that I have d
 
 This document has an initial highlights section, an then is ordered week-by-week. At the end of this ReadMe, I will also write a brief self-reflection on my performance in the class so far. 
 
-## Overall Highlights:
+## Overall Highlights/Favorites:
 This section will be a discussion of the contributions I thought were most interesting or felt the best about
+
+ - __Week 1 Reading Math Activity Response__: I felt like this initial response was a great precursor to the course - seeing how the context of a math problem changed my response and approach to solving it was really interesting. It was a good reminder to consider the bigger picture when approaching a seemingly difficult problem. I feel like a lot of the assignments in this course were very big-picture, and applied calculus concepts to the rather than focusing just on the calculus itself.
+   
+ - __Week 2 SIRPlot Variations__: This was a very time consuming activity - but I'm glad I did it! It was a good way to look at different systems of equations, and I got a lot of practice with graphing in this context that I was able to use in many later assignments. I wanted to highlight this assignment because I think that it shows good progress in how my code for graphing and modeling improved over time
+
+ - __Mini-Project 1__: I was especially proud of the work that I did on the last part of this assignment, where I implemented a model of Newton's Law of Cooling that accounted for the amount of sugar dissolved in a beverage. Although I originally thought that this  would be a straightforward addition to the original Cooling equations, it was a little more involved! I ended up having to adjust the parameters of my equation a lot - I did some basic research to see how fast sugar might dissolve in a liquid and how the temperature would affect that, and how much sugar is a normal amount to add to tea initially (I add a lot haha).  I relied heavily on the visualizations that I generated to check whether my model was using parameters that fell within the realm of the plausible!
+   
+ - __Newton's Method Infinite Loop__ :While working on a homework problem requiring the 
 
 
 
@@ -15,11 +23,33 @@ This section will be a discussion of the contributions I thought were most inter
 This week, we started working with SIRPlot, a code that models the spread of a disease over time by modeling susceptible, infected, and recovered populations over time. This was a good introduction to using calculus in coding - having largely only done calculus by hand, modeling the changes in these populations over time in Python was a good review of some basic concepts and how to implement them in Python. 
 
 So that everything is in the same place, I have added the PDF write up in this repository.
+
 ## Week 2: Euler's Method
+In week 2, we explored Euler's Method. This homework was fairly straightforward, but walked through how changing certain constants in the SIR algorithm or SIRPLOT functions could change how a disease spread. This homework is listed as "Week 2" in the repo. 
+
+This assignment did take a while to complete, but we looked at a lot of different kinds of models, and it was a very thorough investigation of how changing the individual population functions for S, I and R populations changed the spread of the disease as a whole. For me, changing variables and generating visualizations is a really effective way to learn how concepts work in general, so I appreciated the attention to that this week.
+
+For my own future reference: The Euler method describes the process of taking the derivative of a function at evenly spaced x-values to generate an estimation to the true curve of the derivative of said function.
+
 ## Week 3: Derivatives
+This week was a good introduction to the definition of the derivative!. This assignment is listed in the repo as "Week 3".
+
+The equations presented this week are used for finding the derivative at a point given the original function. This was different from Euler's method, as we aren't necessarily calculating the change between two points, but calculating what the derivative/slope of the line was at each point.
+
 ## Week 4: Derivatives as Functions
+This week built on the previous week to use the point-derivative across a range of values to estimate the derivative as a function. This assignment is in the repo as "Week 4". 
+In this assignment, the material touched on the concepts of limits in the definition of a derivative without diving into them too much (limits are something that make sense conceptually but I struggle with how they are represented in most math, and working with them in equations).I thought it was interesting to see how more intervals led to a smoother graph, as it did when using Euler's method above. 
+
 ## Week 5-6: Modeling and Differential Equations
+During these two weeks, we looked at more growth functions, and completed a mini-project that used these differential equations to model real-world phenomena. This assignment is in the repo as Mini-Project1.
+
+For my project, I went through the worked examples of modeling hare-lynx populations using the May model and modeling fermentation and yeast-to-sugar ratios using differential equations. I thought the fermentation exercises were especially interesting, as they added a third population that limited the growth of another. For the final part of this project, I decided to investigate Newtons Cooling, and generated a model for how the law would change if the amount of sugar stirred into a hot beverage varied. Overall, this was a good way to experience working with a lot of different models, and practicing graphing.
+
+
 ## Week 7: Accumulation Function
+I  was excited to start getting into integrals! In this week, we returned to the disease models (Ebola this time) to investigate the accumulation - the total sum of f(x) over all of x. The assignment for this week is in the Repo as Week 7
+
+I liked the initial drawing activities - it was interesting getting to draw out by hand what the accumulation function or average function across the bar charts might be. 
 ## Week 8: Differentiation Rules
 ## Week 9: Newton's Method
 ## Week 10: Riemann Sums
