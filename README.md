@@ -4,7 +4,12 @@ This repository will contain the classwork and class contributions that I have d
 - Class work and Assignments
 - Online Discussions
 
-This document is ordered week-by-week, and will highlight some of the work I feel best about from each week! At the end of this ReadMe, I will also write a brief self-reflection on my performance in the class so far. 
+This document has an initial highlights section, an then is ordered week-by-week. At the end of this ReadMe, I will also write a brief self-reflection on my performance in the class so far. 
+
+## Overall Highlights:
+This section will be a discussion of the contributions I thought were most interesting or felt the best about
+
+
 
 ## Week 1: Calculus in Context
 This week, we started working with SIRPlot, a code that models the spread of a disease over time by modeling susceptible, infected, and recovered populations over time. This was a good introduction to using calculus in coding - having largely only done calculus by hand, modeling the changes in these populations over time in Python was a good review of some basic concepts and how to implement them in Python. 
