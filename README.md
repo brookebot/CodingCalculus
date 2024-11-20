@@ -6,17 +6,27 @@ This repository will contain the classwork and class contributions that I have d
 
 This document has an initial highlights section, an then is ordered week-by-week. At the end of this ReadMe, I will also write a brief self-reflection on my performance in the class so far. 
 
+The link to this GitHub repository is [here](https://github.com/brookebot/CodingCalculus/edit/main/README.md)
+
 ## Overall Highlights/Favorites:
 This section will be a discussion of the contributions I thought were most interesting or felt the best about
 
  - __Week 1 Reading Math Activity Response__: I felt like this initial response was a great precursor to the course - seeing how the context of a math problem changed my response and approach to solving it was really interesting. It was a good reminder to consider the bigger picture when approaching a seemingly difficult problem. I feel like a lot of the assignments in this course were very big-picture, and applied calculus concepts to the rather than focusing just on the calculus itself.
    
- - __Week 2 SIRPlot Variations__: This was a very time consuming activity - but I'm glad I did it! It was a good way to look at different systems of equations, and I got a lot of practice with graphing in this context that I was able to use in many later assignments. I wanted to highlight this assignment because I think that it shows good progress in how my code for graphing and modeling improved over time
+ - __Week 2 SIRPlot Variations__: This was a very time consuming activity - but I'm glad I did it! It was a good way to look at different systems of equations, and I got a lot of practice with graphing in this context that I was able to use in many later assignments. I wanted to highlight this assignment because I think that it shows good progress in how my code for graphing and modeling improved over time.
 
  - __Mini-Project 1__: I was especially proud of the work that I did on the last part of this assignment, where I implemented a model of Newton's Law of Cooling that accounted for the amount of sugar dissolved in a beverage. Although I originally thought that this  would be a straightforward addition to the original Cooling equations, it was a little more involved! I ended up having to adjust the parameters of my equation a lot - I did some basic research to see how fast sugar might dissolve in a liquid and how the temperature would affect that, and how much sugar is a normal amount to add to tea initially (I add a lot haha).  I relied heavily on the visualizations that I generated to check whether my model was using parameters that fell within the realm of the plausible!
    
- - __Newton's Method Infinite Loop__ :While working on a homework problem requiring the 
+ - __Newton's Method Infinite Loop__ :While working on the Newton's method Homework assignment, by chance I drew my second tangent line in such a way that it intersected the x-axis at the original starting point, making the method circular. It was really interesting to find this artifact of the method, and when I posted on piazza about it, another student had also made a function that does the same thing, showing that the method can be circular. It was a fun little discovery!  ![image](https://github.com/user-attachments/assets/091926c9-ac37-4ea7-a35b-990406e636dc)
 
+## Self Reflection:
+Overall, I love the approach that this class takes to applying calculus to real-world examples and situations. In the first week, I was pleasantly surprised by my reaction to the initial "reading math" activity, and was excited to try to apply context to calculus problems that would otherwise seem very complex on paper. 
+
+All of the assignments in this course have allowed me to really get to the core concepts of calculus without going through a lot of theory or proofs, but rather through real world examples. Having taken a calculus class that does approach calculus through theory, I appreciated the insights that I was able to gain through the context of the homework problems. For example, even in the first few assignements, we used population modeling to model how functions change over time. These weren't always presented as derivatives or antiderivatives, but by using those models to explore the systems of equations, I felt like I was able to better understand why each term in the equation made sense and how it changed the behavior of the models. 
+
+On a more personal note, this class reminded me a lot of some of the physics classes I took in my first degree program. Although I didn't always understand concepts as they were presented in Calculus or Differential Equations, they always seemed to be much simpler in the context of a physics problem. This class was a great way to get to go back and revisit basic calculus concepts through the lens of these various situations encountered throughout the assignments!
+
+My biggest regret in this course is that I did not participate in the discussions as much as I should have - I really should have set myself a reminder each week to post in addition to doing the assignments! I had a lot of thoughts about some of the assignments, and it would have been more interesting to get to discuss them with other students. 
 
 
 ## Week 1: Calculus in Context
@@ -71,5 +81,5 @@ I really enjoyed doing the coding for this assignment, it was very satisfying to
 
 
 ## Week 11: The Integral and the Fundamental Theorem of Calculus
-This was a nice, simple assignment that illustrated some of the basic concepts of the FTC. I like the activities that are done by-hand, and the matching exercise was a good way to gain intuition about what an anti-derivative is compared to the original function, and what the integral looks like when written out. Good practice with different formats of equations. This assignment is listed in the Repo as "FTC"
+This was a short assignment that illustrated some of the basic concepts of the FTC. I like the activities that are done by-hand, and the matching exercise was a good way to gain intuition about what an anti-derivative is compared to the original function, and what the integral looks like when written out. Good practice with different formats of equations. This assignment is listed in the Repo as "FTC"
 
